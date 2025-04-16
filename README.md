@@ -18,7 +18,7 @@
 
 <h2>💡 | Skills</h2>
 <ul>
-  <li>💻 <strong>Programming Languages:</strong> Proficient in .NET C#, Java; Basic knowledge of Python.</li>
+  <li>💻 <strong>Programming Languages:</strong> Proficient in .NET C#, Java; Basic knowledge of SQL</li>
   <li>🛠️ <strong>Frameworks and Tools:</strong> Experience with ASP.NET MVC, SQL Server, Git, and Eclipse IDE.</li>
   <li>📊 <strong>Database Management:</strong> Skilled in MySQL and PostgreSQL.</li>
   <li>🌍 <strong>Languages:</strong> Spanish (Native), English (C2 Level - EF SET).</li>
